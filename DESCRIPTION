@@ -7,7 +7,7 @@ Maintainer: Pitcher Scott <scottpitcher@usf.edu>
 Depends: R (>= 3.1.2)
 Description: This package serves to simply calculate carbon emissions.
     Using easy-to-access data, it will calculate sample carbon footprints.
-License: What license is it under?
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/scottpitcher/R_carbon_package
