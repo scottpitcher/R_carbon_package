@@ -9,5 +9,7 @@ Description: This package serves to simply calculate carbon emissions.
     Using easy-to-access data, it will calculate sample carbon footprints.
 License: GPL-3
 Encoding: UTF-8
-LazyData: true
 URL: https://github.com/scottpitcher/R_carbon_package
+NeedsCompilation: no
+Packaged: 2024-04-23 17:41:27 UTC; scottpitcher
+RoxygenNote: 7.3.1
