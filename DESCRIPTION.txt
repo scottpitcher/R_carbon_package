@@ -1,0 +1,12 @@
+Package: Pitcher
+Type: Package
+Title: This package is for Module 10 Assignment
+Version: 0.0.0.9000
+Author: "Pitcher Scott <scottpitcher@usf.edu> [aut, cre]"
+Maintainer: The package maintainer <yourself@somewhere.net>
+Depends: R (>= 3.1.2)
+Description: This is the description of this package.
+    This is an example of an indented paragraph
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
