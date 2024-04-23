@@ -1,12 +1,13 @@
-Package: Pitcher
+Package: CarbonCalc
 Type: Package
-Title: CarbonCalc
+Title: Carbon Emissions Calculator
 Version: 0.0.0.9000
-Author: "Pitcher Scott <scottpitcher@usf.edu> [aut, cre]"
-Maintainer: The package maintainer <yourself@somewhere.net>
+Author: Pitcher Scott <scottpitcher@usf.edu>
+Maintainer: Pitcher Scott <scottpitcher@usf.edu>
 Depends: R (>= 3.1.2)
 Description: This package serves to simply calculate carbon emissions.
     Using easy-to-access data, it will calculate sample carbon footprints.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/scottpitcher/R_carbon_package
